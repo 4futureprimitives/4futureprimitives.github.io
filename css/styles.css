@@ -46,6 +46,9 @@ div.c {
 }
 
 html{
+     height: 100%;
+  margin: auto;
+  width: 960px;
     overflow: scroll;
 }
 h1 { font-family: Lucida Sans Typewriter;
