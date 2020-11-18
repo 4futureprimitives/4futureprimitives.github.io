@@ -45,6 +45,9 @@ div.c {
   text-align: justify;
 }
 
+html{
+    overflow: scroll;
+}
 h1 { font-family: Lucida Sans Typewriter;
      font-size: 24px;
      font-style: normal;
