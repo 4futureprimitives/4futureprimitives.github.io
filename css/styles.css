@@ -21,6 +21,12 @@ body {
 canvas {
     margin: auto; }
 
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
 div {
     width: 100%
 	      display: inline-block;
@@ -126,7 +132,7 @@ img {
 	   font-family: Lucida Sans Typewriter;;
 	   color: white;
 	   overflow: scroll; 
-	   height: 100%; 
+
 	 }
 
 p { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
