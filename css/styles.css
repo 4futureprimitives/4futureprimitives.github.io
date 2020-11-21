@@ -5,7 +5,8 @@ body {
     font-style: normal;
     font-weight: 400;
     margin:10px;
-    padding:4;                                                                               
+    padding:4;
+    overflow: scroll;
      }
 
 .black p {
@@ -22,7 +23,9 @@ canvas {
 
 div {
     width: 100%
-	      display: inline-block;;
+	      display: inline-block;
+  resize: both;
+  overflow: auto;
 }
 
 .column div {
@@ -50,10 +53,12 @@ div.c {
   text-align: justify;
 }
 
+/* The fix for auto-resizing was to add 100% to width */
+
 html{
      height: 100%;
   margin: auto;
-  width: 960px;
+  width: 100%;
   overflow: scroll;
 }
 
@@ -69,7 +74,9 @@ h2 { font-family: Lucida Sans Typewriter;
      font-style: normal;                                                                                        
      font-variant: normal;                                                                                      
      font-weight: 400;                                                                                          
-     line-height: 10.4px; }  
+     line-height: 10.4px;
+     overflow: scroll;
+   }  
 
 h3 { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monosopace;
      font-size: 14px;
@@ -107,6 +114,7 @@ img {
 	   font-family: Lucida Sans Typewriter;;
 	   color: white;
 	   overflow: scroll; 
+	   height: 100%; 
 	 }
 
 p { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
@@ -114,7 +122,9 @@ p { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera 
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
-    line-height: 20px; }
+    line-height: 20px;
+    overflow: scroll; 
+  }
 
 blockquote { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
 	     font-size: 21px;
