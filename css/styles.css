@@ -1,3 +1,21 @@
+a:link {
+  color: #FADBD8;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: #E8F8F5 ;
+}
+
+/* selected link */
+a:active {
+  color: #EBDEF0;
+}
 
 body {                                                                                           
     font-family: Lucida Sans Typewriter;
@@ -106,10 +124,11 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-}
+
+
 
 .wrapper a:link {color: white;}
-.wrapper a:visited {color: grey;
+.wrapper a:visited {color:  green;
 	    text-decoration: line-through;}
 
 .wrapper a:hover {color: pink;
