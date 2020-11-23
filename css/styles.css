@@ -1,21 +1,3 @@
-a:link {
-  color: #FADBD8;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: #E8F8F5 ;
-}
-
-/* selected link */
-a:active {
-  color: #EBDEF0;
-}
 
 body {                                                                                           
     font-family: Lucida Sans Typewriter;
