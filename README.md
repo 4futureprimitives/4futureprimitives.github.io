@@ -1,5 +1,5 @@
 # POLIS
-This site was devised as a way to link fieldwork and ongoing research projects with my university teaching. It has three primary dimension:
+This site was devised as a way to link fieldwork and ongoing research projects with my university teaching. It has three primary dimensions:
 
 1. A broad application of so-called political theory with contemporary events.
 
