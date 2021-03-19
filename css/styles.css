@@ -1,6 +1,5 @@
 
-body {                                                                                           
-    font-family: Lucida Sans Typewriter;
+body {                                                                                            
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -9,7 +8,17 @@ body {
     overflow: scroll;
      }
 
-.black p {
+::selection { background: #D682B0; }
+
+ a:link {color: #AA2B67;}
+ a:visited {color: #E68391;
+	    text-decoration: line-through;}
+
+ a:hover {color: #31998E;
+	  text-decoration: underline;}
+ a:active {color: #D44848 ;}
+
+ .black p {
     background-color: black;
     color: white;
     font-family: Lucida Sans Typewriter;
@@ -106,15 +115,14 @@ img {
   width: 100%;
   height: 100%;
 }
-
-
-.wrapper a:link {color: white;}
+            
+.wrapper a:link {color: #E2AFCB;}
 .wrapper a:visited {color:  #F2D7D5;
 	    text-decoration: line-through;}
 
-.wrapper a:hover {color: pink;
+.wrapper a:hover {color:#31998E;
 	  text-decoration: underline;}
-.wrapper a:active {color: #D3E8CA;}
+.wrapper a:active {color: #D44848;}
 
 .shadow	{ background-color: black;
 	  color: white;
@@ -143,8 +151,9 @@ p { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera 
     font-weight: 400;
     line-height: 20px;
     overflow: scroll; 
+   
   }
-
+ 
 blockquote { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
 	     font-size: 21px;
 	     font-style: normal;
