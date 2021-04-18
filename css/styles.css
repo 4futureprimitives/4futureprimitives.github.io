@@ -5,7 +5,7 @@ body {
     font-weight: 400;
     margin:10px;
     padding:4;
-    overflow: scroll;
+
      }
 
 ::selection { background: #D682B0; }
@@ -21,14 +21,10 @@ body {
  .black p {
     background-color: black;
     color: white;
-    font-family: Lucida Sans Typewriter;
     font-size: 15 px;
     margin: 5;
     padding: 4;
 }
-
-canvas {
-    margin: auto; }
 
 .container {
   position: absolute;
@@ -40,7 +36,7 @@ div {
     width: 100%
 	      display: inline-block;
   resize: both;
-  overflow: auto;
+
 }
 
 .column div {
@@ -67,13 +63,6 @@ div.c {
 }
 
 /* The fix for auto-resizing was to add 100% to width */
-
-html{
-     height: 100%;
-  margin: auto;
-  width: 100%;
-  overflow: scroll;
-}
 
 h1 { font-family: Lucida Sans Typewriter;
      font-size: 24px;
@@ -117,12 +106,12 @@ img {
 }
             
 .wrapper a:link {color: #E2AFCB;}
-.wrapper a:visited {color:  #F2D7D5;
+.wrapper a:visited {color:  #C2A1BD;
 	    text-decoration: line-through;}
 
 .wrapper a:hover {color:#31998E;
 	  text-decoration: underline;}
-.wrapper a:active {color: #D44848;}
+.wrapper a:active {color: #C44F86;}
 
 .shadow	{ background-color: black;
 	  color: white;
