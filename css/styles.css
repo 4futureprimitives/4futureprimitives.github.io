@@ -123,6 +123,10 @@ img {
 	  font-size: 15px;
 	  color: white;}
 
+.text {
+    color: #FE8AB6;
+
+}
 .trans 	{text-align: end;
 	 display:block;
 	 background-color: black;
