@@ -182,8 +182,13 @@ pre {font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera
 
 	display: flex;
     flex-wrap: wrap;
-    margin: 20px; 
+    margin: 20px;
+    top-margin: 10px;
 }
 .img-row img:not(:last-of-type) {
 	margin-right: 20px;
+}
+
+.flex-wrapper {
+    display: space-between;
 }
