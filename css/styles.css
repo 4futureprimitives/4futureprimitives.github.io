@@ -1,22 +1,34 @@
 
+
+
+
 body {                                                                                            
     font-size: 14px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 1000;
     margin:10px;
     padding:4;
 
      }
 
-::selection { background: #D682B0; }
+::selection {
+color: black; 
+    background: #D682B0;
+             
+}
 
- a:link {color: #AA2B67;}
- a:visited {color: #E68391;
+
+a.navo:link {color: #AA2B67;
+               text-decoration: none;
+}
+ a.navo:visited {color: #E68391;
 	    text-decoration: line-through;}
 
- a:hover {color: #31998E;
-	  text-decoration: underline;}
- a:active {color: #D44848 ;}
+ a.navo:hover {color: #31998E;
+	           text-decoration: none;}
+ 
+ a.navo:active {color: #D44848 ;
+                 text-decoration: none;}
 
  .black p {
     background-color: black;
@@ -26,6 +38,12 @@ body {
     padding: 4;
 }
 
+ .projects{
+   font-size: '25 px';
+         font-style: 'normal';
+         font-weight: '800';
+         	   font-family: 'Helvetica';
+ }
 
 .container {
   position: absolute;
@@ -66,15 +84,15 @@ div.c {
 
 /* The fix for auto-resizing was to add 100% to width */
 
-h1 { font-family: Lucida Sans Typewriter;
+h1 { font-family: 'Helvetica';
      font-size: 24px;
      font-style: normal;
      font-variant: normal;
-     font-weight: 500;
+     font-weight: 1000;
      line-height: 26.4px; }
 
-h2 { font-family: Lucida Sans Typewriter;         
-     font-size: 17px;                                                                                          
+h2 { font-family: Helvetica, Arial, Sans serif;         
+     font-size: 18px;                                                                            
      font-style: normal;                                                                                        
      font-variant: normal;                                                                                      
      font-weight: 400;                                                                                          
@@ -82,8 +100,9 @@ h2 { font-family: Lucida Sans Typewriter;
      overflow: scroll;
    }  
 
-h3 { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monosopace;
+h3 { font-family: Helvetica, Arial, monosopace;
      font-size: 14px;
+     font-weight: 1000;
      font-style: normal;
      font-variant: normal;
      font-weight: 400;
@@ -118,7 +137,12 @@ img {
 
 .shadow	{ background-color: black;
 	  color: white;
-	  line-height: 1.5;}
+	  line-height: 1.0;}
+
+.highlighter { background-color: #E6A6C5;;
+	  color: black;
+	  line-height: 2.0;}
+
 
 .censor { color:white;
 	  text-decoration: line-through;
@@ -139,27 +163,34 @@ img {
 
 
 .wrapper { background-color: black;
-	   font-family: Lucida Sans Typewriter;;
+	   font-family: Lucida Sans Typewriter;
 	   color: white;
 	; 
 	 }
 
-p { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
+p { font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
-    line-height: 20px;
     overflow: scroll; 
    
   }
  
-blockquote { font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
-	     font-size: 21px;
+blockquote { font-family: Arial, Helvetica, sans-serif;
+	     font-size: 8px;
 	     font-style: normal;
 	     font-variant: normal;
-	     font-weight: 400;
-	     line-height: 30px; }
+	  line-height: 2.5;
+
+           }
+blockquote a { font-family: Arial, Helvetica, sans-serif;
+	     font-size: 10px;
+	     font-style: normal;
+	     font-variant: normal;
+             }
+
+
 
 pre {font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
      font-size: 13px;
