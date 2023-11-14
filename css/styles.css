@@ -39,11 +39,16 @@ a.navo:link {color: #AA2B67;
 }
 
  .projects{
-     padding-left: 50px; 
+     padding-left: 10px; 
      font-size: '25 px';
          font-style: 'normal';
          font-weight: '800';
          	   font-family: 'Helvetica';
+ }
+ 
+ .padme{
+       padding-left: 100px; 
+
  }
 
 .container {
