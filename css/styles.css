@@ -39,7 +39,8 @@ a.navo:link {color: #AA2B67;
 }
 
  .projects{
-   font-size: '25 px';
+     padding-left: 50px; 
+     font-size: '25 px';
          font-style: 'normal';
          font-weight: '800';
          	   font-family: 'Helvetica';
