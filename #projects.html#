@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	    <meta charset="UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+        <title>Projects</title>
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+        <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css"> -->
+	    <!-- <script src="sketch.js"></script> -->
+
+	    <link rel="stylesheet" href="css/styles.css">
+
+	    <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-8 col-md-10 col-lg-10">
+                    <a href="index.html"><img src="images/sov/sov_title.gif"></a><br>
+
+<h2>
+    <b>
+<a href="index.html"><img src="images/es_logo_sm.png" width=10%></a>                            
+		                    <a href="projects.html" class="navo">PROJECTS</a> &nbsp;
+	    	                <a href="about.html" class="navo">ABOUT</A> &nbsp;
+		                    <a href="practice.html" class="navo">SOCIAL PRACTICE</a> &nbsp;
+		                    <a href="research.html" class="navo">RESEARCH</a> &nbsp;
+
+</h2>
+        </b>                        <p>
+
+                            <!-- <div class="container-fluid">
+                                 <div class="row">
+                                 <div class="col-lg-8 col-md-6 col-sm-6"> -->
+                        <p>
+                </div>
+            </div>
+	    </div>
+	    <br>
+
+
+	    <body>
+            <div>
+
+                            <div class="padme">
+
+
+                                <!--Projects Begin-->
+
+                                <h3>
+                <span class="shadow"><b>| 2024 |</b>
+  
+                            <a href="sovereign.html" class="navo">
+                                <b class="projects">  SOVEREIGN </b>
+
+                            </a>                                                  </span>
+                         
+                            <br>
+
+                            <!--Project-->
+                <span class="shadow"><b>| 2024 |</b>
+
+                            <a href="#" class="navo">
+                                <b class="projects"> SONIC FIELD: THE POLITICAL AESTHETIC OF APICHATPONG WEERASETHAKUL </B>
+
+                            </a>                                                  </span>  
+                         
+                            <br>
+                            <!--Project-->
+
+
+
+                                            <span class="shadow"><b>| 2023 |</b>
+
+                            <a href="https://vimeo.com/757810298/1640c3607d?share=copy" class="navo" target="_blank">
+                                <b class="projects">  WAVES </b>
+
+                            </a>                                                  </span>  
+                         
+                            <br>
+
+                            <!--Project-->
+
+                            
+                                            <span class="shadow"><b>| 2022 |</b>
+
+                            <a href="https://vimeo.com/772260614/33bd030d72?share=copy" class="navo" target="_blank">
+                                <b class="projects">  FIELDWORK IN POETRY AND POLITICS </b>
+
+                            </a>                                                  </span>  
+                         
+                            <br>
+
+
+                                                        <!--Project-->
+                            
+                                    <span class="shadow"><b>| 2021 |</b>
+
+                            <a href="https://vimeo.com/570906916/4ae0a56aad?share=copy" class="navo" target="_blank">
+                                <b class="projects">  Ka Leo </b>
+
+                            </a>                                                  </span>  <br>
+
+                            <!--Project-->
+
+                                            <span class="shadow"><b>| 2015 |</b>
+
+                            <a href="writers.html" class="navo">
+                                <b class="projects">  WRITERS </b> 
+
+                            </a>                                                  </span>  
+                         
+                            <br>
+                            <!--Project-->
+
+                                            <span class="shadow"><b>| 2018 |</b>
+
+                            <a href="https://vimeo.com/884284785/20b0db6c8d?share=copy" class="navo" target="_blank">
+                                <b class="projects">  桔梗 (BELLFLOWER, 13 min.) </b>
+
+                            </a>                                                  </span>  
+                         
+                            <br>
+                            <!--Project-->
+ 
+                            
+                                                                        <span class="shadow"><b>| 2010 |</b>
+
+                            <a href="https://vimeo.com/278971462?share=copy" class="navo" target="_blank">
+                                <b class="projects">  RED SHIRT AESTHETICS </b>
+
+                            </a>                                                  </span>  
+                                                                        <br>
+
+                        <!--Project-->
+
+                                            <span class="shadow"><b>| 2008 |</b>
+
+                            <a href="https://vimeo.com/38055612?share=copy" class="navo" target="_blank">
+                                <b class="projects">  WHERE IS JOHN MAUS? </b>
+
+                            </a>                                                  </span>  
+                         
+                            <br>
+                            <!--Project-->
+                                                                        
+                            <br><br>
+                            <!--Project-->
+                            <br>
+                            <p><b>STUDENT PROJECTS</b><br>
+
+                                <!--Project-->
+                                <h3>
+
+
+                                    <span class="shadow"><b>| 2023 |</b>
+
+                            <a href="https://vimeo.com/883856214/e017d6d53c?share=copy" class="navo" target="_blank">
+                                <b class="projects">  DEMOCRACY (AIU, Nanari Minegishi) </b>
+
+                            </a>                                                  </span>  <br>
+
+                            <!--Project-->
+                            
+                                    <span class="shadow"><b>| 2022 |</b>
+
+                            <a href="https://vimeo.com/883855644/7ec103cef1?share=copy" class="navo" target="_blank">
+                                <b class="projects">  THE IMPERMANENCE OF ALL THINGS (AIU) </b>
+
+                            </a>                                                  </span>  <br>
+
+
+                                  <!--Project-->
+                                    
+
+                                    <span class="shadow"><b>| 2020 |</b>
+
+                            <a href="https://vimeo.com/883853874/012ff8086f?share=copy" class="navo" target="_blank">
+                                <b class="projects">  WHAT DOES LIVING IN AKITA MEAN TO YOU? (AIU) </b>
+
+                            </a>                                                  </span>  <br>
+
+                                  <!--Project-->
+
+
+                                    <span class="shadow"><b>| 2020 |</b>
+
+                            <a href="https://vimeo.com/883854732/473a933e08?share=copy" class="navo" target="_blank">
+                                <b class="projects">  THE SINKING VILLAGE (AIU) </b>
+
+                            </a>                                                  </span>  <br>
+
+                                  <!--Project-->
+
+                                    <span class="shadow"><b>| 2018 |</b>
+
+                            <a href="https://vimeo.com/305175492?share=copy" class="navo" target="_blank">
+                                <b class="projects">  DOCUMENTARY SHOWCASE (AIU) </b>
+
+                            </a>                                                  </span>  <br>
+
+                                  <!--Project-->
+                           <span class="shadow"><b>| 2018 |</b>
+
+                            <a href="https://vimeo.com/303984565?share=copy" class="navo" target="_blank">
+                                <b class="projects">  LISTENING CHALLENGE (AIU) </b>
+
+                            </a>                                                  </span>  <br>
+
+                                  <!--Project-->
+                           <span class="shadow"><b>| 2017 |</b>
+
+                            <a href="https://vimeo.com/281208362?share=copy" class="navo" target="_blank">
+                                <b class="projects">  DOCUMENTARY SHOWCASE (AIU) </b>
+
+                            </a>                                                  </span>  <br>
+
+                                  <!--Project-->
+                            
+                                  <!--Project-->
+
+                                <span class="shadow"><b>| 2015 |</b>
+
+                            <a href="https://vimeo.com/198940477?share=copy" class="navo" target="_blank">
+                                <b class="projects"> POLITICS IN AKITA (AIU)</b>
+
+                            </a>                                                  </span>  <br>
+                         
+
+         
+                            <!--Project-->                         
+            
+                            
+                                <span class="shadow"><b>| 2013 |</b>
+
+                            <a href="https://vimeo.com/149365188?share=copy" class="navo" target="_blank">
+                                <b class="projects">  DOCUMENTARY SHOWCASE (UH-Hilo) </b>
+
+                            </a>                                                  </span>  
+                                <br>
+                                                            <br>
+                            <p><b>EVENTS</b><br>
+
+                         <!--Project-->                         
+            
+                            
+                                <span class="shadow"><b>| 2018 |</b>
+
+                            <a href="https://vimeo.com/296265105/8d517c73dc?share=copy" class="navo" target="_blank">
+                                <b class="projects">  CREATIVE AKITA w/ ChLOÉ JAFÉ ET AL. (AIU) </b>
+
+                            </a>                                                  </span>  
+                                <br>
+            
+                            <!--Project-->                         
+                            <br><br>
+
+                            </div>
+</div>                            
+<br><br>
+            </h3>
+
+            <br>
+            <br>
+            <br>
+            <br>
+
+        </body>
+</html>
