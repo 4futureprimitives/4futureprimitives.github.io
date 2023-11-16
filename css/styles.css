@@ -18,10 +18,10 @@ color: black;
 }
 
 
-a.navo:link {color: #AA2B67;
+a.navo:link {color: #FA7E9C;
                text-decoration: none;
 }
- a.navo:visited {color: #E68391;
+ a.navo:visited {color: #CC6386;
 	    text-decoration: line-through;}
 
  a.navo:hover {color: #31998E;
@@ -59,7 +59,7 @@ a.navo:link {color: #AA2B67;
 
 div {
     width: 100%
-	      display: inline-block;
+	      display: none;
   resize: both;
 
 }
@@ -143,11 +143,11 @@ img {
 
 .shadow	{ background-color: black;
 	  color: white;
-	  line-height: 1.0;}
+	  line-height: 1.5;}
 
 .highlighter { background-color: #E6A6C5;;
 	  color: black;
-	  line-height: 2.0;}
+	  line-height: 1.5;}
 
 
 .censor { color:white;
