@@ -5,7 +5,7 @@
 body {                                                                                            
     font-size: 14px;
     font-style: normal;
-    font-weight: 1000;
+    font-weight: 100;
     margin:10px;
     padding:4;
 
@@ -75,7 +75,8 @@ div {
 }
 
 .column_left {
-  flex: 30%;
+    flex: 30%;
+
 }
 
 .column_right {
@@ -129,6 +130,11 @@ h3 { font-family: Helvetica, Arial, monosopace;
 img {
   	max-width: 100%;
   	height: auto;
+}
+.flow-img {
+
+ float: right; 
+      margin: 5px; 
 }
 
 
@@ -196,7 +202,7 @@ p { font-family: Arial, Helvetica, sans-serif;
   }
  
 blockquote { font-family: Arial, Helvetica, sans-serif;
-	     font-size: 8px;
+	     font-size: 10px;
 	     font-style: normal;
 	     font-variant: normal;
 	  line-height: 2.5;
